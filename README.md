@@ -28,7 +28,7 @@ Este é um projeto pessoal, desenvolvido com HTML e CSS puros. A proposta é cen
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/fillypearaujo/linktree-simples
    
 2. Abra o index.html em seu navegador.
 
