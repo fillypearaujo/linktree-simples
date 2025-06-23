@@ -1,17 +1,32 @@
-# linktree-simples
+# 🌳 Linktree Simples
 
-Projeto de uma página estilo Linktree feita com HTML e CSS, ideal para agrupar seus links de redes sociais, portfólio ou contatos em um só lugar.
+Este é um projeto pessoal, desenvolvido com HTML e CSS puros. A proposta é centralizar vários links importantes em uma única página de forma responsiva, leve e personalizável.
 
-## 🔗 Funcionalidades
+## 🚀 Funcionalidades
 
-- Layout responsivo e centralizado
-- Estilo limpo e personalizável
-- Links com botões clicáveis
-- Fácil de publicar no GitHub Pages
+- Lista de links com botões estilizados
+- Design centralizado e minimalista
+- Totalmente responsivo para mobile e desktop
+- Fácil de personalizar (cores, textos, fontes)
 
-## 🚀 Como usar
+## 🛠️ Tecnologias utilizadas
 
-1. Clone o repositório:
+- HTML5
+- CSS3
 
-```bash
-git clone https://github.com/fillypearaujo/linktree-simples.git
+## 🧾 Estrutura do Projeto
+
+📁 meu-linktree/
+├── index.html # Página principal
+├── style.css # Estilo visual
+└── README.md 
+
+## 📦 Como usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repo.git
+   
+2. Abra o index.html em seu navegador.
+
+3. Personalize os links, textos e cores como desejar!
