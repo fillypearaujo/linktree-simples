@@ -17,8 +17,11 @@ Este é um projeto pessoal, desenvolvido com HTML e CSS puros. A proposta é cen
 ## 🧾 Estrutura do Projeto
 
 📁 meu-linktree/
+
 ├── index.html # Página principal
+
 ├── style.css # Estilo visual
+
 └── README.md 
 
 ## 📦 Como usar
